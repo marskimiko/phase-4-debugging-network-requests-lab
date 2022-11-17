@@ -63,6 +63,9 @@ developing your own process.
 - Add a new toy when the toy form is submitted
 
   - How I debugged:
+    - tried to make a toy and check the console as well as the network tab in dev tools to see how the errors were showing up
+    - confirmed i had a create route in the routes.db file
+    - check my create controller method in the toys controller
 
 - Update the number of likes for a toy
 
